@@ -3,9 +3,11 @@
     margin: 0;
 }
 body{
+    height: 100vh;
     font-size: 0.8rem;
     background-image: url(../img/bg.png);
     background-size: cover;
+    background-repeat: no-repeat;
 }
 /* =====================================
     typography 
@@ -161,6 +163,7 @@ nav a:hover{
 .price-section button:hover{
     background-color: #884426;
 }
+
 *{
     transition: all 100ms linear;
 }
