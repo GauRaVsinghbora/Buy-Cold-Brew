@@ -161,6 +161,12 @@ nav a:hover{
 .price-section button:hover{
     background-color: #884426;
 }
+*{
+    transition: all 100ms linear;
+}
+
+
+
 
 
 
