@@ -3,7 +3,8 @@
     margin: 0;
 }
 body{
-    height: 100vh;
+    min-height: 100vh;
+    height:100%;
     font-size: 0.8rem;
     background-image: url(../img/bg.png);
     background-size: cover;
